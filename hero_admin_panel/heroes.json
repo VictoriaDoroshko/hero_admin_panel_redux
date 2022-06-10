@@ -17,30 +17,47 @@
       "name": "Огненный герой",
       "description": "Создавать огонь",
       "element": "fire"
+    },
+    {
+      "id": "d2724645-6c50-456a-80db-629bf66b4f93",
+      "name": "Day",
+      "description": "Swim",
+      "element": "water"
+    },
+    {
+      "id": "6d1a0a03-b3d0-40a5-b925-f58dc2af5a5e",
+      "name": "Night",
+      "description": "Sleep",
+      "element": "earth"
     }
   ],
   "filters": [
     {
+      "id": "all",
       "name": "all",
       "label": "Все",
       "className": "btn-outline-dark"
     },
     {
+      "id": "fire",
       "name": "fire",
       "label": "Огонь",
       "className": "btn-danger"
     },
     {
+      "id": "water",
       "name": "water",
       "label": "Вода",
       "className": "btn-primary"
     },
     {
+      "id": "wind",
       "name": "wind",
       "label": "Ветер",
       "className": "btn-success"
     },
     {
+      "id": "earth",
       "name": "earth",
       "label": "Земля",
       "className": "btn-secondary"
